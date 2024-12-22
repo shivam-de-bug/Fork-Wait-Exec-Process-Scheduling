@@ -24,7 +24,7 @@ This repository contains C-based implementations of key Operating Systems concep
 4. **CPU Scheduling Algorithms**  
    - Simulates FIFO, SJF, SRTF, and Round Robin scheduling.  
    - Displays execution order, response time, and turnaround time.  
-   **File:** `scheduling.c`
+   **File:** `q4.c`
 
 ## Setup and Execution
 
@@ -36,4 +36,4 @@ This repository contains C-based implementations of key Operating Systems concep
   ```bash
   gcc q1.c -o q1
   gcc q2.c -o q2
-  gcc scheduling.c -o scheduling
+  gcc q4.c -o q4
